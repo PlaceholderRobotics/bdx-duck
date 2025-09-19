@@ -8,7 +8,7 @@
    </tr> 
 </table>
 
-We are making a miniature version of the BDX Droid by Disney. It is about 42 centimeters tall with its legs extended.
+We are making a small version of the BDX Droid by Disney. It is about 42 centimeters tall with its legs extended.
 The full BOM cost should be under $400 !
 
 This repo is kind of a hub where we centralize all resources related to this project. This is a working repo, so there are a lot of undocumented scripts :) We'll try to clean things up at some point.

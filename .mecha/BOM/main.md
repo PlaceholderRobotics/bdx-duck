@@ -1,4 +1,4 @@
-# Main BOM
+# Main
 
 | Component [text] | Quantity [num] | Unit Cost [currency, $] | Total Cost [currency, $] | Link [link] |
 | --- | --- | --- | --- | --- |

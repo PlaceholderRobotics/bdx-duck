@@ -1,0 +1,10 @@
+# test-bom
+
+| Component [text] | Quantity [text] | Unit Cost [text] | Total Cost [text] | Supplier Link [link] |
+| --- | --- | --- | --- | --- |
+| Steel Rod 10mm | 5 | $12.50 | $62.50 | [https://example.com/steel-rod](https://example.com/steel-rod) |
+| Aluminum Plate 5mm | 2 | $25.00 | $50.00 | [https://example.com/aluminum-plate](https://example.com/aluminum-plate) |
+| Bolts M8x20 | 20 | $0.75 | $15.00 | [https://example.com/bolts](https://example.com/bolts) |
+| Rubber Gasket | 1 | $5.00 | $5.00 | [https://example.com/gasket](https://example.com/gasket) |
+| Motor 12V | 1 | $45.00 | $45.00 | [https://example.com/motor](https://example.com/motor) |
+

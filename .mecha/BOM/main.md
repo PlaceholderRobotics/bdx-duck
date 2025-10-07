@@ -2,6 +2,7 @@
 
 | Component [text] | Quantity [num] | Unit Cost [currency, $] | Total Cost [currency, $] | Link [link] |
 | --- | --- | --- | --- | --- |
-| Left leg | 1 | 50.00 | $50.00 | [https://link.com](https://link.com) |
-| Right leg | 1 | 50.00 | $50.00 | [Chicken.com](https://Chicken.com) |
+| Left leg | 1 | 50.00 | 50.00 | [https://link.com](https://link.com) |
+| Right leg | 1 | 50.00 | 50.00 | [Chicken.com](https://Chicken.com) |
+| Body | 1 | 100.00 | 100.00 |  |
 
